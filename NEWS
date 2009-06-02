@@ -1,4 +1,6 @@
 0.2:
+* Add the first example, a simple address book [1 June 2009]
+* Improve the storage of date types to use reals [16 May 2009]
 * Add support for unique indices of groups of fields [16 May 2009]
 * Add a 'real' function for floating point datatypes. [16 May 2009]
 
